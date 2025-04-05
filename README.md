@@ -1,6 +1,6 @@
 # LabVIEW VI-Unlocker
 
-This tools enables reliably unlocking all types of view/edit-restricted LabVIEW files with password-protected (but present) source code, from binary virtual instrument (VI) files to XML-based library-type files (e.g., \*.lvlib or \*.lvclass ). The unlcoker code is entirely written in LabVIEW (version 23) and should be cross-platform because it uses no external libraries. A simple GUI tool allows processing an entire folder with user-selectable file types. All LabVIEW file versions starting from version 6 and later are supported.
+This tools enables reliably unlocking all types of view/edit-restricted LabVIEW files with password-protected (but present) source code, from binary virtual instrument (VI) files to XML-based library-type files (e.g., \*.lvlib or \*.lvclass). The unlcoker code is entirely written in LabVIEW (version 23) and should be cross-platform because it uses no external libraries. A simple GUI tool allows processing an entire folder with user-selectable file types. All LabVIEW file versions starting from version 6 and later are supported.
 
 ## Usage
 
